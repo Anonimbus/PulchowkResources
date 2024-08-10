@@ -1,0 +1,1 @@
+//6.convert deg cel to fahrenheit scale using class to class conversion where degree and fahrenheit are two different class.
